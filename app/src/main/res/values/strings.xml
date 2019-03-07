@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">智能门锁</string>
+    <string name="tb_title_history">历史图片</string>
+    <string name="tb_title_user">个人中心</string>
+
+    <string name="add_tv_name">名称</string>
+    <string name="add_tv_id">锁芯ID</string>
+    <string name="add_bt_add">添加</string>
+
+    <!-- Strings related to recyclerview -->
+    <string name="tv_load_empty">下拉加载数据</string>
+    <string name="tv_load_end">已加载所有数据</string>
+    <string name="tv_load_fail">加载失败，点击重试</string>
+    <string name="tv_load_ing">加载中，请稍候</string>
+    <string name="tv_load_reload">暂未录入数据</string>
+
+    <!-- Strings related to tab -->
+    <string name="title_tab_info">信息</string>
+    <string name="title_tab_set">控制</string>
+    <string name="title_tab_administrator">个人</string>
+
+    <string name="add_toast_fail">创建失败</string>
+    <string name="add_toast_success">创建成功</string>
+
+
+    <string name="menu_alter_name">修改</string>
+    <string name="alter_name_title">属性名修改</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="global_unknown_error">未知错误</string>
+    <string name="tv_pre_unknown">未知</string>
+
+    <string name="info_item_head">标题</string>
+    <string name="info_item_body">数据</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to bind page -->
+    <string name="toast_bind_success">绑定成功</string>
+    <string name="toast_bind_invalid">操作不合法</string>
+    <string name="toast_bind_existence">设备已激活</string>
+    <string name="toast_not_selected">请选择一个设备</string>
+
+    <!-- Strings related to control page -->
+    <string name="tv_control_switch">门锁开关</string>
+    <string name="tv_control_machine">电机档位</string>
+    <string name="toast_set_success">设置成功</string>
+    <string name="toast_device_turnoff">设备连接失败，请先开启设备</string>
+    <string name="toast_get_photo">已获取最新图片</string>
+    <string name="tv_group_switch">开关设置</string>
+    <string name="tv_group_sw">电机设置</string>
+    <string name="tv_control_push">警报推送</string>
+
+    <!-- Strings related to home page -->
+    <string name="home_item_title">上传时间</string>
+    <string name="home_item_date">2018.01.01</string>
+    <string name="home_item_device">设备密钥</string>
+    <string name="home_item_id">1</string>
+    <string name="home_item_time">15:00</string>
+
+    <!-- Strings related to version page -->
+    <string name="version_code">1.4.3</string>
+    <string name="version_app1">Trico</string>
+    <string name="version_app2">◎Client</string>
+    <string name="version_back1">Deacyn</string>
+    <string name="version_back2">◎Server</string>
+    <string name="version_hardware1">LiNing</string>
+    <string name="version_hardware2">◎Hardware</string>
+    <string name="version_raspberry1">Fantastic</string>
+    <string name="version_raspberry2">◎Raspberry</string>
+    <string name="version_logo1">Ninja</string>
+    <string name="version_logo2">◎LOGO</string>
+    <string name="version_copyright">Copyright © 2017-2018 Trico. All Rights Reserved</string>
+
+    <!-- Strings related to info page -->
+    <string name="tv_info_tips">下拉加载数据</string>
+    <string name="battery_level">N/A</string>
+    <string name="tv_activate_part1">该设备于</string>
+    <string name="tv_activate_part2">激活</string>
+
+    <!-- Strings related to toast -->
+    <string name="toast_other_code">操作不合法，请重试</string>
+    <string name="toast_request_exception">网络请求错误，请重试</string>
+    <string name="toast_clear_success">清理成功</string>
+
+
+    <!-- Strings related to user page -->
+    <string name="user_bt_exit">退出系统</string>
+    <string name="user_tv_clear">清理缓存</string>
+    <string name="user_tv_key">切换设备</string>
+    <string name="user_tv_version">版本信息</string>
+    <string name="user_tv_logout">登出账号</string>
+
+    <!-- Strings related to network -->
+    <string name="network_error">网络开小差了</string>
+    <string name="network_success">更新成功</string>
+
+    <!-- Strings related to login -->
+    <string name="et_phone">请输入手机号</string>
+    <string name="et_password">请输入密码</string>
+    <string name="bt_login">登录</string>
+    <string name="login_progress">登录中，请稍候</string>
+    <string name="tips_phone_null">请输入手机号码</string>
+    <string name="tips_password_null">请输入密码</string>
+    <string name="tips_phone_illegal">手机号不合法</string>
+    <string name="tips_password_length">请输入6-12位密码</string>
+    <string name="invalid_account">密码错误</string>
+    <string name="action_in_short">登录</string>
+
+    <!-- Strings related to register -->
+    <string name="bt_register">注册</string>
+    <string name="tips_register">新用户注册</string>
+    <string name="action_register">注册</string>
+    <string name="tips_password_inconsistent">两次密码输入不一致</string>
+    <string name="tips_user_exist">用户已存在</string>
+    <string name="tips_unknown_error">未知错误</string>
+
+    <!-- Strings related to bind -->
+    <string name="et_bind">请输入门锁产品编号</string>
+    <string name="bt_bind">绑定</string>
+    <string name="bt_sure">进入</string>
+    <string name="tips_bind_num">我要绑定</string>
+    <string name="tips_have_num">已有设备</string>
+</resources>
